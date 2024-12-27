@@ -88,3 +88,43 @@ PowerPoint’in araç çubuğu olan "Ribbon" bölümünü özelleştirmek de mü
 - Eğer sağ sekmede bulamadığınız bir araç varsa, onu bulup sol sekmeye ekleyin. Böylece, ihtiyaç duyduğunuz aracı kolayca erişilebilir hale getirmiş olursunuz.
 
 ![resim](https://i.ibb.co/5hHtSJ6/5-Ribbon-zelle-tirme.png)
+
+# Microsoft PowerPoint 2024: Temel Terimler
+
+Bu yazıda, PowerPoint'teki bazı temel terminolojileri keşfedeceğiz.
+
+## Slayt
+
+PowerPoint’taki her bir görsel, “slide(slayt)” olarak adlandırılır. Slaytlar, bir sunumun temel yapı taşlarıdır ve sunum sırasında sırasıyla gösterilir.
+
+## Slayt Küçültmesi
+
+Sol tarafta yer alan kısım, "slayt küçültmesi" veya "thumbnail" olarak adlandırılır. 
+Bu bölüm, sunumunuzdaki tüm slaytları küçük görseller halinde görüntülemenizi sağlar. Böylece istediğiniz slayda hızlıca ulaşabilirsiniz.
+
+![resim](https://i.ibb.co/0sFL3zH/6-Slide.png)
+
+## Durum Çubuğu
+
+PowerPoint’in alt kısmında yer alan araçlar, “durum çubuğu” olarak bilinir. Durum çubuğu, mevcut slayt hakkında bilgi verir ve sunum sırasında kullandığınız bazı temel araçlara hızlı erişim sağlar.
+
+![resim](https://i.ibb.co/VtfRPN7/7-Durum-ubu-u.png)
+
+## Ribbon
+
+PowerPoint’in üst kısmında yer alan araç setine "ribbon" (şerit) denir. 
+Ribbon, çeşitli araçları ve seçenekleri düzenli bir şekilde sunarak kullanıcıların işini kolaylaştırır.
+
+![resim](https://i.ibb.co/FHsQT5D/8-Ribbon.png)
+
+### Sekmeler
+
+Ribbon içerisinde farklı gruplar halinde düzenlenmiş "sekmeler" bulunmaktadır. Her sekme, belirli işlevlere erişim sağlar ve farklı araçları barındırır.
+
+### Komut Grupları
+
+Ribbon'da bulunan her bir sekmenin altında, "komut grupları" bulunur. Bu gruplar, belirli bir konuya veya görev alanına göre düzenlenmiş araçları içerir. Komut grupları, kullanıcıların ihtiyaç duyduğu araçlara daha hızlı bir şekilde ulaşmalarını sağlar.
+
+## Görsel
+
+Ribbon içindeki görsel araçlar, kullanıcının sunumunu zenginleştirmek için çeşitli seçenekler sunar.
