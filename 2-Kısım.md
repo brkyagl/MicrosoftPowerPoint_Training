@@ -98,3 +98,25 @@ SmartArt grafikleri, listelerinizi daha etkileyici ve estetik hale getirmenize y
 SmartArt menüsünden daha fazla seçenek bulabilir, grafiklerinizin renk ve düzenini değiştirebilirsiniz. SmartArt, listelerle çalışmak için harika bir araçtır.
 
 ![resim](https://i.ibb.co/pdNg1QR/16-Smart-Art.png)
+
+# Şekil Çizme
+
+PowerPoint uygulamasında şekil çizmek, sunumlarınızı daha görsel ve etkileyici hale getirir. Bu bölümde, şekil ekleme, biçimlendirme ve düzenleme adımlarını açıklayacağız.
+
+## 1. Şekil Ekleme
+
+PowerPoint’in "Insert" sekmesinde bulunan "Shapes" seçeneği, çeşitli şekiller çizmenize imkan tanır. 
+Boş bir slayt seçerek "Shapes" butonuna tıkladıktan sonra istediğiniz şekli seçebilirsiniz. Örneğin, bir dikdörtgen veya daire çizebilirsiniz. 
+
+![resim](https://i.ibb.co/n8xrsw1/17-ekiller.png)
+
+## 2. Şekil Biçimlendirme
+
+Çizdiğiniz şekil üzerinde çalıştığınızda, "Shape Format" sekmesi açılacak ve bu sekme, şeklinizi biçimlendirebileceğiniz araçlar sunacaktır. 
+
+- **Shape fill**: Bu seçenek, şeklinizin iç rengini ayarlamanıza olanak tanır.
+- **Shape outline**: Şeklin etrafındaki çizgiyi düzenleyebilirsiniz. Çizgi kalınlığını artırmak için, outline butonunun yanındaki aşağı ok simgesine tıklayarak "Weight" seçeneğini kullanabilirsiniz.
+- **Shape effects**: Şeklinize gölge eklemek gibi efektler uygulayabilirsiniz.
+
+![resim](https://i.ibb.co/Dpj6gZG/18-ekil-zelle-tirme.png)
+
