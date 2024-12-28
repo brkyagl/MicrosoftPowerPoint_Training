@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4decf33b-5119-4554-a6aa-7a5f0dfd4880)# Slide Master Nedir?
+# Slide Master Nedir?
 
 Slide Master, PowerPoint sunumlarınızı oluşturmak için kullanılan temel bir araçtır. 
 Burada, şablonunuzu ayarlayarak sunumun tüm konfigürasyonlarını kolayca yapabilirsiniz.
