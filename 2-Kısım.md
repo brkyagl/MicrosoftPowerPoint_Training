@@ -70,3 +70,31 @@ Yazı tipi stilinizi değiştirebilir, metni artırabilir veya azaltabilirsiniz.
 Ayrıca, metin vurgulama aracı ile belirli kelimeleri vurgulayabilir ve yazı tipi rengini değiştirerek metin rengini istediğiniz gibi ayarlayabilirsiniz. 
 Tüm biçimlendirmeleri temizlemek isterseniz, yazı tipi seçeneklerini kullanarak bu işlemi de gerçekleştirebilirsiniz.
 
+# Paragraf Komut Grubu
+
+PowerPoint’teki Paragraf Komut Grubu, metinlerinizin düzenlenmesine ve biçimlendirilmesine yardımcı olur. 
+Bu bölümde, madde işaretleri ve diğer metin formatlama seçenekleri hakkında bilgi vereceğiz.
+
+## 1. Madde İşaretleri
+
+Madde işaretleri, slaytlarınızdaki içerikleri daha düzenli bir şekilde sunmanıza olanak tanır. 
+Varsayılan olarak, bir madde işareti ile başlayacaksınız fakat bu madde işaretini istediğiniz şekilde değiştirebilirsiniz. 
+Madde işareti butonunun yanındaki aşağı ok simgesine tıklayarak farklı seçenekleri görebilir ve tercihinizi yapabilirsiniz.
+
+![resim](https://i.ibb.co/SQBbmVY/13-Maddeler.png)
+
+## 2. Satır Aralığı ve Hizalama Seçenekleri
+
+Paragraf Komut Grubu'nda, farklı satır aralığı seçeneklerini ve hizalama ayarlarını göreceksiniz. 
+Metni sola, ortaya veya sağa hizalayabilir, içeriklerinizi bir veya iki sütun şeklinde düzenleyebilirsiniz. Metin yönlendirmesini değiştirerek yazılarınızın yönünü de belirleyebilirsiniz.
+
+![resim](https://i.ibb.co/y5BSnZM/14-Hizalama.png)
+![resim](https://i.ibb.co/5TvfSZ4/15-Yaz-Aral-g.png)
+
+## 3. SmartArt Kullanımı
+
+SmartArt grafikleri, listelerinizi daha etkileyici ve estetik hale getirmenize yardımcı olur. 
+Örneğin, liste oluştururken, listelerinizi daha güzel bir tasarıma kavuşturmak için SmartArt seçeneğini kullanabilirsiniz. 
+SmartArt menüsünden daha fazla seçenek bulabilir, grafiklerinizin renk ve düzenini değiştirebilirsiniz. SmartArt, listelerle çalışmak için harika bir araçtır.
+
+![resim](https://i.ibb.co/pdNg1QR/16-Smart-Art.png)
