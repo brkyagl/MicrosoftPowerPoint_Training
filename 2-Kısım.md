@@ -1,4 +1,4 @@
-# Slide Master Nedir?
+![image](https://github.com/user-attachments/assets/4decf33b-5119-4554-a6aa-7a5f0dfd4880)# Slide Master Nedir?
 
 Slide Master, PowerPoint sunumlarınızı oluşturmak için kullanılan temel bir araçtır. 
 Burada, şablonunuzu ayarlayarak sunumun tüm konfigürasyonlarını kolayca yapabilirsiniz.
@@ -120,3 +120,24 @@ Boş bir slayt seçerek "Shapes" butonuna tıkladıktan sonra istediğiniz şekl
 
 ![resim](https://i.ibb.co/Dpj6gZG/18-ekil-zelle-tirme.png)
 
+## 3. Şekil Düzenleme
+
+"Home" sekmesi altında yer alan "Arrange" komutu, şekilleri birbirinin üzerine yerleştirmenize olanak tanır. Örneğin, bir daireyi dikdörtgenin üzerine koyabilirsiniz. 
+Eğer daireyi dikdörtgenin arka planına taşımak isterseniz, daireyi seçip "Arrange" sekmesinden "Send Backward" seçeneğini kullanabilirsiniz.
+
+![resim](https://i.ibb.co/wh0NvKy/19-Arrange.png)
+
+## 4. Şekil Birleştirme
+
+Birden fazla şekli birleştirmek için "Ctrl" tuşuna basarak ikinci şekli seçin ve ardından "Arrange" sekmesinden "Group" seçeneğini kullanarak iki şekli birleştirin.
+
+![resim](https://i.ibb.co/sqYHBqf/20-Group-Sekil.png)
+
+## 5. Nesneleri Konumlandırma
+
+Şekillerinizi soldan, ortadan veya sağdan hizalayarak düzenleyebilirsiniz. Ayrıca, şekillerinizi 90 derece sola veya sağa döndürebilir, dikey olarak çevirebilirsiniz.
+
+## 6. Düzenleme İşlemleri
+
+PowerPoint’in düzenleme komut grubunda, "Find", "Replace" ve "Select" gibi seçenekler yer alır. "Find" seçeneği, içerikte belirli bir kelimeyi aramanıza yardımcı olur. 
+Örneğin, "Find" seçeneğine tıklayıp arama kutusuna "test" kelimesini yazdığınızda, bu kelime metin içinde vurgulanacaktır. Ayrıca, metin içindeki belirli kelime veya nesneleri seçip değiştirme imkanına da sahipsiniz.
