@@ -198,3 +198,68 @@ Tablonuz üzerinde daha fazla düzenleme yapabilmek için "Table Design" sekmesi
 ![resim](https://i.ibb.co/kqCSFDL/26-S-tunbirle-tirme.png)
 ![resim](https://i.ibb.co/GTKW9pb/27-S-t-nbirlesme.png)
 
+# MS PowerPoint Görsel Kullanım Kılavuzu
+
+MS PowerPoint, sunumlarına zengin görsel içerik eklemek isteyenler için çeşitli seçenekler sunar. 
+Bu kılavuzda, PowerPoint’te görsellerin nasıl eklenip düzenleneceği üzerine bilgi bulabilirsiniz.
+
+## Görsel Komut Grubu
+
+### Resim Ekleme
+
+PowerPoint, sunumunuza görsel eklemek için iki ana yöntem sunar: cihazınızdan resim eklemek ve çevrimiçi resimler bulmak.
+
+1. **Cihazdan Resim Ekleme:**
+   - "Insert" sekmesine gidin ve "Pictures" seçeneğini tıklayın ardından "This Device".
+   Bu işlem, bilgisayarınızdaki resimlerin bulunduğu klasöre yönlendirecektir.
+   - İstediğiniz resmi seçin ve ekleyin.
+
+![resim](https://i.ibb.co/w7WHZXc/28-Resimeklecihaz.png)
+
+2. **Çevrimiçi Resim Ekleme:**
+   - Yine "Pictures" sekmesine gidin ve "Online Pictures" seçeneğini tıklayın. Buradaki arama kutusuna ihtiyacınız olan görselin anahtar kelimesini yazarak arama yapabilirsiniz. Örneğin, "Crypto" yazarak kripto ile ilgili görselleri bulabilirsiniz.
+
+![resim](https://i.ibb.co/rdXM4Hr/29-Online-Resim.png)
+
+## Resim Düzenleme ve Stil Seçenekleri
+
+PowerPoint, eklediğiniz resimleri farklı şekillerde düzenlemenizi sağlar:
+
+### Resim Formatı
+
+- **Resim Stilleri:** Eklenmiş resmi seçtiğinizde, "Picture Format" sekmesinde çeşitli stil seçenekleri göreceksiniz. Beğendiğiniz bir stil seçerek resminizi daha çekici hale getirebilirsiniz.
+- **Arka Planı Kaldırma:** Resminizin arka planını kaldırmak için “Remove Background” seçeneğine tıklayın. Ardından korumak istediğiniz alanları işaretleyerek istenmeyen arka plandaki bölümleri kaldırabilirsiniz. İşlemi tamamladıktan sonra "Keep Changes" butonuna basın.
+
+![resim](https://i.ibb.co/rsrcWvK/30-Resim-Secenekleri.png)
+
+### Renk ve Efekt Seçenekleri
+
+- **Renk Değiştirme:** Resminizin rengini değiştirmek için "Color" seçeneğini kullanabilirsiniz. 
+- **Sanatsal Efektler:** Farklı "Artistic Effect" ile resminizi kişiselleştirebilir ve daha ilgi çekici hale getirebilirsiniz.
+  - **Şeffaflık Ayarları:** Resimde "Corrections" ayarları ile oynayarak görselinizin görünümünü değiştirebilirsiniz.
+
+## Stok Görsel Kullanma
+
+PowerPoint, stok görsellerle zengin içerik oluşturmanın kapılarını aralar.
+
+### Stok Resimler
+
+- "Pictures" sekmesinde "Stock Pictures" seçeneğini tıklayın. Bu özellik, internet bağlantınız olduğunda kullanılabilir.
+- Stok görseller arasında gezinmek veya arama kutusuna istediğiniz görselin adını yazarak arama yapmak mümkündür.
+
+![resim](https://i.ibb.co/3zCVPyP/31-Stock-Resimler.png)
+
+### İkonlar ve Diğer Grafikleri Ekleme
+
+Stok görseller sekmesinden ikonlar, kesilmiş insanlar, çıkartmalar ve daha birçok görsel seçeneği bulabilirsiniz. 
+Arama kutusuna ihtiyacınız olan türdeki grafiği yazarak kolayca bulabilirsiniz.
+
+## Dış Kaynaklardan Resim Bulma
+
+### Pixabay ile Resim İndirme
+
+Eğer PowerPoint’in daha düşük bir sürümünü kullanıyorsanız, stok görsellere erişiminiz olmayabilir. 
+Bu durumda dış kaynaklardan resim indirmeniz tavsiye edilir. 
+
+- **Pixabay.com:** Bu web sitesinde fotoğraflar, illüstrasyonlar, videolar ve müzik bulabilirsiniz. Arama kutusuna aradığınız içeriği yazarak yüksek kaliteli görseller bulabilirsiniz.
+- Örneğin, “office” yazarak uygun görselleri bulun ve bilgisayarınıza kaydedin.
