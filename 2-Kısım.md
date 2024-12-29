@@ -1,4 +1,4 @@
-# Slide Master Nedir?
+![image](https://github.com/user-attachments/assets/743501de-6e08-4048-b130-62067f29e095)# Slide Master Nedir?
 
 Slide Master, PowerPoint sunumlarınızı oluşturmak için kullanılan temel bir araçtır. 
 Burada, şablonunuzu ayarlayarak sunumun tüm konfigürasyonlarını kolayca yapabilirsiniz.
@@ -141,3 +141,60 @@ Birden fazla şekli birleştirmek için "Ctrl" tuşuna basarak ikinci şekli se�
 
 PowerPoint’in düzenleme komut grubunda, "Find", "Replace" ve "Select" gibi seçenekler yer alır. "Find" seçeneği, içerikte belirli bir kelimeyi aramanıza yardımcı olur. 
 Örneğin, "Find" seçeneğine tıklayıp arama kutusuna "test" kelimesini yazdığınızda, bu kelime metin içinde vurgulanacaktır. Ayrıca, metin içindeki belirli kelime veya nesneleri seçip değiştirme imkanına da sahipsiniz.
+
+## Sesli Komut ile Metin Ekleme
+
+### Sesli Yazma (Dictate)
+
+PowerPoint’teki sesli yazma özelliği sayesinde, sesinizi kullanarak metin eklemek oldukça kolaylaşır. 
+
+1. **Boş Bir Slayt Ekleyin:** Öncelikle boş bir slayt seçin.
+2. **Metin Kutusu Ekleme:** "Insert" -> "Text Box" sekmesinde bir metin kutusu seçin.
+3. **Sesli Yazma:** Mikrofonunuz bağlıyken “Sound” butonuna tıklayın ve konuşmaya başlayın. Konuştuğunuz her şey, slaytınıza metin olarak yansıyacaktır.
+4. **Durdurma:** Sesli yazmayı durdurmak için yine “Kare” butonuna tıklamanız yeterlidir.
+
+![resim](https://i.ibb.co/VxCMtbt/21-Ses-Ekleme.png)
+
+## Tasarım Fikirleri
+
+### Tasarım İdeaları (Designer)
+
+PowerPoint’teki tasarım ideaları özelliği, sunumunuz için şık ve düşündürücü tasarımlar bulmanıza yardımcı olur.
+
+- **Tasarım Seçenekleri:** "Design" sekmesine giderek ilginç tasarım önerileri alabilirsiniz. 
+- **Çevrimiçi Erişim:** Tüm tasarım fikirlerine erişmek için internet bağlantınızın olması gerekmektedir. Beğendiğiniz bir tasarımı seçerek slaytınıza uygulayabilirsiniz.
+
+![resim](https://i.ibb.co/QbYL5V1/22-Desen.png)
+
+## Tablo Oluşturma
+
+### Tablo Ekleme
+
+PowerPoint’te tablolar ile verilerinizi düzenlemek çok daha kolaydır.
+
+1. **Tablo Komutu:** "Insert" sekmesinden "Table" seçeneğine tıklayarak bir tablo ekleyin.
+2. **Satır ve Sütun Seçimi:** "Table" seçeneğini kullanarak ihtiyacınız olan satır ve sütun sayısını seçin.
+3. **Veri Girişi:** Tabloyu ekledikten sonra içine veri yazmaya başlayabilirsiniz.
+
+![resim](https://i.ibb.co/4WM5zcX/23-Tablo.png)
+
+### Tablo Tasarımı
+
+Tablonuzun stilini değiştirmek oldukça basittir.
+
+- **Tablo Stilleri:** "Table Design" sekmesinden çeşitli stil seçeneklerini görebilir, açık, orta veya koyu bir stil tercih edebilirsiniz.
+- **Biçimlendirme:** Tablo tasarımınızda gölgelendirme, kenar çizgileri ve efektler üzerinde değişiklik yapabilirsiniz.
+
+![resim](https://i.ibb.co/cgQhcWX/24-Tablo-Desen.png)
+
+### Tablo Düzeni
+
+Tablonuz üzerinde daha fazla düzenleme yapabilmek için "Table Design" sekmesindeki araçları kullanabilirsiniz.
+
+- **Yeni Satır ve Sütun Ekleme:** "inseert abovee", "inseert beelow", "inseert leeft", ve "inseert right" gibi seçenekler ile tablonuza yeni satır ve sütunlar ekleyebilirsiniz. Ayrıca sağ tıklayarak bu seçeneklere hızlıca ulaşabilirsiniz.
+- **Tablo Alan Birleştirme:** Alanı seçip "Merge Cells" seçeneği ile birleştirebilir, ihtiyacınıza göre geri split yani ayırma işlemini de gerçekleştirebilirsiniz.
+
+![resim](https://i.ibb.co/xsDZj12/25-Tablo-D-zenleme.png)
+![resim](https://i.ibb.co/kqCSFDL/26-S-tunbirle-tirme.png)
+![resim](https://i.ibb.co/GTKW9pb/27-S-t-nbirlesme.png)
+
