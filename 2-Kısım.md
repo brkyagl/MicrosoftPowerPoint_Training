@@ -263,3 +263,45 @@ Bu durumda dış kaynaklardan resim indirmeniz tavsiye edilir.
 
 - **Pixabay.com:** Bu web sitesinde fotoğraflar, illüstrasyonlar, videolar ve müzik bulabilirsiniz. Arama kutusuna aradığınız içeriği yazarak yüksek kaliteli görseller bulabilirsiniz.
 - Örneğin, “office” yazarak uygun görselleri bulun ve bilgisayarınıza kaydedin.
+
+# MS PowerPoint Ekran Görüntüsü Alma ve Fotoğraf Albümü Oluşturma Kılavuzu
+
+MS PowerPoint, görsel içeriklerinizi zenginleştirmek için ekran görüntüsü alma ve fotoğraf albümü oluşturma gibi kullanışlı özellikler sunar. 
+Aşağıda bu özelliklerin nasıl kullanıldığını detaylı bir şekilde bulabilirsiniz.
+
+## Ekran Görüntüsü Alma (Screenshots)
+
+PowerPoint’te ekran görüntüsü almak için aşağıdaki adımları takip edebilirsiniz:
+
+### Ekran Görüntüsü Komutunu Kullanma
+
+1. **Açık Olan Sayfa:** Öncelikle ekran görüntüsünü almak istediğiniz dosyayı, web sayfasını veya içeriği açın. Bu, ekran görüntüsünün hangi içeriği yansıtacağını belirleyecektir.
+   
+2. **Ekran Görüntüsü Alma:** PowerPoint’i açtıktan sonra "Insert -> Screenshot" komutuna tıklayın. Bu, açık olan sayfayı göstererek ekran görüntüsünü almanızı sağlar.
+
+3. **Kayıt Alanının Belirlenmesi:** Ekran görüntüsü almak istediğiniz alanı seçmek için imleci tıklayıp sürükleyin. Seçtiğiniz alan ekran görüntüsü olarak alınacaktır.
+
+![resim](https://i.ibb.co/bFs8PZK/32-Screenshot.png)
+
+### Ekran Görüntüsünü Slayda Ekleme
+
+Ekran görüntüsünü aldıktan sonra, bu görüntü otomatik olarak PowerPoint sunumunuza eklenecektir. 
+Örneğin, masaüstü arka planınızı alacaksanız, PowerPoint uygulamanızı en küçük yaparak arka planı açın ve ardından yukarıdaki adımları izleyin.
+
+Bu yöntem, tarayıcıda gördüğünüz bir içerik için de geçerlidir. Tarayıcıda istediğiniz içeriği açtıktan sonra aynı işlemleri tekrarlayarak ekran görüntüsü alabilirsiniz.
+
+## Fotoğraf Albümü Tasarımı
+
+### Fotoğraf Albümü Oluşturma
+
+PowerPoint ile şık bir fotoğraf albümü oluşturmak da oldukça kolaydır. 
+Sunumunuza fotoğraflar eklemek için şu adımları izleyebilirsiniz:
+
+1. **Fotoğraf Albümü Seçeneği:** PowerPoint menüsünden "Photo Album" seçeneğini tıklayın.
+Bu, dosyanızda kullanmak istediğiniz tüm fotoğrafları eklemeniz için bir alan açacaktır.
+
+2. **Fotoğrafları Ekleyin:** İstediğiniz resimleri seçin ve fotoğraf albümünüzde kullanmak üzere ekleyin.
+
+3. **Düzenleme ve Tasarım:** Eklediğiniz fotoğrafların düzenini ve tasarımını dilediğiniz gibi ayarlayabilirsiniz. Sunumunuzun atmosferine uygun bir albüm oluşturmak için çeşitli stil ve tema seçeneklerini kullanabilirsiniz.
+
+![resim](https://i.ibb.co/qksgSPp/33-Foto-Alb-m.png)
