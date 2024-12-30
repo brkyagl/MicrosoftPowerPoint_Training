@@ -125,3 +125,22 @@ Metin yönlendirmesi ile metninizi eğik veya dik bir şekilde döndürebilirsin
 **Align Text** butonu ile metninizi soldan, sağdan veya ortadan hizalayabilirsiniz. Metin kutularının otomatik olarak yeniden boyutlandığını aklınızda bulundurmalısınız. 
 Ayrıca, **More Options** butonu ile açılan **Format Shape** paneli, metin kutularınızı ve içeriğinizi daha fazla formatlama olanağı sunar.
 
+## Değişiklikleri Geri Alma
+
+PowerPoint’te yaptığınız değişiklikleri geri almak isterseniz, Ctrl + Z kısayolunu kullanabilirsiniz. 
+Bu, son yaptığınız işlemi geri alır ve metin düzenlemek için rahat bir çalışma ortamı sağlar.
+
+# PowerPoint’te SmartArt Kullanımı ve Metin Eklemek İçin İpuçları
+
+Microsoft PowerPoint, metinlerinizi daha ilgi çekici hale getirmek için SmartArt gibi özellikler sunar. SmartArt grafiklerini kullanarak sunumlarınıza görsel bir derinlik katabilir ve izleyicilerin dikkatini çekebilirsiniz. İşte SmartArt kullanarak metinlerinizi nasıl zenginleştirebileceğinize dair adım adım bir rehber.
+
+## SmartArt ile Metinlerinizi Zenginleştirin
+
+### SmartArt'a Dönüştürme
+
+Yukarıdaki menüden **Home** sekmesindeki paragraf bölümünde bulunan **Convert to SmartArt** butonuna tıklayın. 
+Fare imlecini seçenekler üzerinde gezdirerek, madde işaretlerinizin nasıl daha görsel hale geldiğini gözlemleyin.
+
+![resim](https://i.ibb.co/nsKXSWk/41-Smart-Art.png)
+
+**SmartArt Design** sekmesine tıklayarak SmartArt kategorilerini görebilir ve metin stilinizi zenginleştirmek için uygun bir grafik seçebilirsiniz.
