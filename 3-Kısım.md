@@ -98,3 +98,30 @@ Fark ettiğiniz gibi, karakter aralığını değiştirmek, seçili metindeki g�
 
 Metni seç ve fare ile sağ tık yap. 'A' butonuna tıkla açılan menüden Eyedropper seç.
 ![resim](https://i.ibb.co/cQYvmm6/38-Eyes-Dropper.png)
+
+## Format Temizleme İpuçları
+
+1. Metninizi seçtikten sonra Ctrl + Spacebar tuşlarına aynı anda basarak tüm önceden uygulanan formatlamaları kaldırabilirsiniz.
+Bu, kopyaladığınız veya yapıştırdığınız metinlerde hızlı bir şekilde biçim temizlemek için son derece faydalıdır.
+
+2. Alternatif olarak, ana sayfadaki Format Temizleme butonunu kullanarak da aynı işlemi gerçekleştirebilirsiniz.('A' ve mor silgili sembol.)
+
+## Paragraf Düzenleme
+
+PowerPoint’te paragraflarınızı düzenlemek için, **Home** sekmesindeki paragraf bölümüne gidebilir ve burada metninizi sola ve sağa hizalayabilirsiniz. 
+Ayrıca, aatır aralığını ayarlamak için paragraflarınızı seçin ve **Satır Aralığı** düğmesine tıklayın. 
+Aşağıda açılan listede farklı satır aralığı seçeneklerini göreceksiniz. Daha ince ayarlamalar için, listenin en altındaki **More Columns...** bağlantısına tıklayarak paragraf diyalog kutusunu açabilirsiniz. Burada, öncesi ve sonrası boşluk ayarlarını düzenleyebilirsiniz.
+
+![resim](https://i.ibb.co/bvBPXmq/39-Paragraf.png)
+
+## Metin Yönlendirmesi
+
+Metin yönlendirmesi ile metninizi eğik veya dik bir şekilde döndürebilirsiniz. Metin kutusuna tıkladıktan sonra **Text Direction** düğmesine tıklayın ve listeden seçiminizi yaparak metninizin yönlendirmesini değiştirebilirsiniz. Bu seçenek, tüm metin kutusunu etkiler; bu nedenle yalnızca belirli bir metni döndürmek istemiyorsanız ayrı bir metin kutusu oluşturabilir ve buraya metninizi yerleştirebilirsiniz.
+
+![resim](https://i.ibb.co/9rHVgL2/40-Text.png)
+
+## Metin Hizalama ve Daha Fazlası
+
+**Align Text** butonu ile metninizi soldan, sağdan veya ortadan hizalayabilirsiniz. Metin kutularının otomatik olarak yeniden boyutlandığını aklınızda bulundurmalısınız. 
+Ayrıca, **More Options** butonu ile açılan **Format Shape** paneli, metin kutularınızı ve içeriğinizi daha fazla formatlama olanağı sunar.
+
