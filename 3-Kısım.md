@@ -75,3 +75,26 @@ Bir metin kutusundaki bir paragrafı vurgulayın. Ardından, **Home** sekmesinde
 Fark ettiğiniz gibi, karakter aralığını değiştirmek, seçili metindeki görünümü etkiler.
 
 ![resim](https://i.ibb.co/vLBqS5K/35-Karakter-Araligi.png)
+
+## Metin Durumu Değiştirme
+
+1. Seçili paragrafınızla birlikte **Büyük/Küçük Harf Değiştirme** butonunu kullanarak metin kutusundaki harflerin durumunu değiştirmeyi deneyin.
+2. Bu butona tıkladığınızda açılan listede üzerine geldiğiniz opsiyonların metindeki değişikliği nasıl etkilediğini gözlemleyin. Bu, metin stilinizi değiştirmek için harika bir yoldur.
+
+![resim](https://i.ibb.co/2hP8Sv0/36-Metin-T-r.png)
+
+## Yazı Rengini Değiştirme
+
+1. Farklı bir kelime grubunu seçin ve ardından **Yazı Rengi** butonuna tıklayın.
+2. Son kullanılan rengi bu butonla tekrar kullanabilirsiniz; sol tarafı tıkladığınızda mevcut rengi hemen uygular.
+3. Eğer farklı bir yazı rengi kullanmak istiyorsanız, butonun sağında bulunan ok simgesine tıklayarak diğer renk seçeneklerine ulaşabilirsiniz. (Bu seçenekler de versiyonlara göre farklılık gösterebilir.)
+
+![resim](https://i.ibb.co/nPYSJNJ/37-Metin-Rengi-Degistirme.png)
+
+## Renk Seçme Aracı
+
+1. Menünüzdeki **Damla (Eyedropper)** aracını tıklayın. Bu araç, slayt üzerinde halihazırda kullandığınız bir rengin üzerine gelerek o rengi seçmenizi sağlar. 
+2. Renk paletinizle çalışırken oldukça kullanışlı bir araçtır; bu sayede slaytınızdaki renkleri kolayca uyumlu hale getirebilirsiniz.
+
+Metni seç ve fare ile sağ tık yap. 'A' butonuna tıkla açılan menüden Eyedropper seç.
+![resim](https://i.ibb.co/cQYvmm6/38-Eyes-Dropper.png)
