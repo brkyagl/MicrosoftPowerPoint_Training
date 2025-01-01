@@ -74,3 +74,45 @@ Damla şeklinizi aşağı damlar şeklinde yeniden şekillendirmek için şu ad�
 2. **Hizalamayı Sağlayın:** Düzenleme araçlarındaki "Hizala" (Align) seçeneğinden "Ortala" (Align Center) ve "Ortaya Hizala" (Align Middle) seçeneklerini kullanarak şekilleri üst üste yerleştirin.
 
 ![resim](https://i.ibb.co/ZKrcmPV/47-Swotanalizi5.png)
+
+## Kenarlıkların Kaldırılması
+
+Tek bir şekil elde ettikten sonra, kenar çizgilerini kaldırarak daha zarif bir görünüm elde edebilirsiniz:
+
+1. **Kenar Çizgisini Kaldır:** Şekil seçiliyken "Şekil Kenarlığı" (Shape Outline) menüsünden "Kenarlık Yok" (No Outline) seçeneğini seçin.
+2. **Şekli Kopyala:** Petal şeklinizi seçin ve `Ctrl` tuşunu basılı tutarak sürükleyerek damlanın bir kopyasını oluşturun.
+
+![resim](https://i.ibb.co/8X5phL0/47-swot.png)
+
+## Şekilleri Döndürme
+
+1. **Şekli Yatay Çevir:** İlk petal şeklinizi yatay olarak döndürmek için "Shape Format" sekmesine gidin, "Döndür" (Rotate) seçeneğini tıklayın ve "Yatay Olarak Çevir" (Flip Horizontal) seçeneğini seçin.
+2. **Yukarıda Kopyaladığınız Petali Dikey Olarak Çevirin:** Aynı şekilde, ikinci petalinizi seçin ve "Dikey Olarak Çevir" (Flip Vertical) seçeneğini kullanarak döndürün.
+
+## Renk Ekleme
+
+Petallere renk eklemek sunumunuza görsellik katacaktır. Aşağıdaki adımları izleyin:
+
+1. **Şekilleri Seçin:** Her bir şekli seçin.
+2. **Renk Seçin:** "Shape Format" sekmesine gidin ve "Şekil Doldurma" (Shape Fill) menüsünden uygun bir renk seçin. Bu işlemi her bir petal için tekrarlayın.
+
+![resim](https://i.ibb.co/Y2149gV/48-swot.png)
+
+### Metin Ekleme
+
+ Metin ekleyerek SWOT analizinizin anlamını netleştirebilirsiniz:
+
+1. **Metin Kutusu Ekle:** "Ekle" (Insert) sekmesine gidin ve "Metin Kutusu" (Text Box) seçeneğini seçin. Metin kutusunu ilk şekilin üzerine sürükleyin.
+2. **SWOT Harflerini Yazın:** İlk damlaya "S" harfini yazın. Eğer metin kutunuz otomatik olarak boyut değiştiriyorsa, "Shape Format" sekmesine gidin, "Şekil Seçenekleri" (Format Shape) seçeneğinden "Otomatik Boyutlandırmayı Kapat" (Do Not Autofit) seçeneğini seçin.
+
+### Diğer Damlalara Metin Kopyalama
+
+1. **Metin Kutularını Kopyala:** İlk damladaki metin kutusunu seçin, `Ctrl` tuşunu kullanarak diğer petallere sürükleyerek kopyalayın.
+2. **Harfleri Değiştirin:** Her bir damlaya uygun SWOT harflerini (S, W, O, T) yazarak metin kutularını oluşturun.
+
+![resim](https://i.ibb.co/z7qx4Wt/49-swot.png)
+
+### Hataları Düzeltme
+
+Eğer metin kutularınız düzgün bir şekilde hizalanmamışsa, "Hizalama" (Align) aracını kullanarak bunları düzeltebilirsiniz.
+
