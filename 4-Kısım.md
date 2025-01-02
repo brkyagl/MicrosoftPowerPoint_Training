@@ -116,3 +116,41 @@ Petallere renk eklemek sunumunuza görsellik katacaktır. Aşağıdaki adımlar�
 
 Eğer metin kutularınız düzgün bir şekilde hizalanmamışsa, "Hizalama" (Align) aracını kullanarak bunları düzeltebilirsiniz.
 
+# MS PowerPoint'te İkon Ekleme Rehberi
+
+Microsoft PowerPoint programında sunumunuza görsellik katmak için ikonlar eklemek oldukça faydalıdır. 
+Aşağıda, adım adım ikon ekleme işlemini anlatan bir rehber bulabilirsiniz.
+
+## 1. İkon Ekleme İşlemi
+
+- **İkonlarınızı Seçin**: Öncelikle, "Insert" (Ekle) sekmesine gidin ve "Icons" (İkonlar) seçeneğini tıklayın. 
+
+## 2. İkon Kategorileri
+
+- **Güç İkonu**: Güç simgesi olarak spor bölümüne gidin ve ağırlık kaldıran bir insan figürünü seçin.
+- **Zayıflık İkonu**: Zayıflık simgesi için arama kutusuna "links" yazın ve iki dairenin arasında bir çizgi olan ikonu seçin.
+- **Fırsatlar İkonu**: Doğa ve açık hava kategorisine tıklayın ve bir elin yaprağı tuttuğu figürü seçin.
+- **Tehditler İkonu**: İşaretler ve semboller kısmına gidin ve tehlike işareti olan üçgen figürü seçin.
+
+## 3. İkonun Eklemesi
+
+Seçtiğiniz ikonları eklemek için "Insert" (Ekle) butonuna tıklayın. Tüm ikonlar, slaytınıza eklenerek bir arada gruplanacaktır.
+
+## 4. İkonları Düzenleme
+
+- **Düzenleme Araçları**: İkonlar bir arada bulunduğundan, bunları tek tek ayırmak yerine "Arrange" (Düzenle) aracıyla eşit şekilde dağıtabilirsiniz.
+- **Halo Ekleme**: Her ikonun arkasında bir halo oluşturmak için "Home" (Ana Sayfa) sekmesini seçin ve çizim komut grubundaki şekil seçme aracından oval şekli seçin.
+Slaytınıza tıklayarak bir daire oluşturun. Alternatif olarak, daireyi tıklayıp sürükleyerek oluşturabilirsiniz. 
+
+## 5. Dairelerin Düzenlenmesi
+
+- **Daireleri Kopyalama**: Oluşturduğunuz daireden Ctrl tuşuna basılı tutarak sürükleyerek üç kopya daha oluşturun. 
+- **Düzensiz Çizgileri Kaldırma**: Daireleri seçin, "Format" (Biçim) sekmesine gidin, "Shape Outline" (Şekil Kenarı) seçeneğinden "No Outline" (Kenarsız) seçeneğini tıklayın.
+
+## 6. İkonların Boyutlandırılması
+
+- **İkon Boyutunu Ayarlama**: Dairelerin boyutunu yaklaşık bir inç olacak şekilde ayarlayın.
+Eğer ikonlar çok büyükse, onları dairenin içine sığacak şekilde küçültün.
+Tüm ikonları seçin, Shift tuşuna basılı tutarak, "Size" (Boyut) sekmesine gidin ve "Lock Aspect Ratio" (Boyut Oranını Kilitle) seçeneğinin işaretli olduğundan emin olun.
+Ardından, yükseklik veya genişliği değiştirin. 
+
