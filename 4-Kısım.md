@@ -154,3 +154,42 @@ Eğer ikonlar çok büyükse, onları dairenin içine sığacak şekilde küçü
 Tüm ikonları seçin, Shift tuşuna basılı tutarak, "Size" (Boyut) sekmesine gidin ve "Lock Aspect Ratio" (Boyut Oranını Kilitle) seçeneğinin işaretli olduğundan emin olun.
 Ardından, yükseklik veya genişliği değiştirin. 
 
+# MS PowerPoint'te İkonları Daireler Üzerine Yerleştirme Rehberi
+
+Microsoft PowerPoint sunumlarınıza görsel çekicilik katmak için ikonları daireler üzerine yerleştirmek, sunumunuzu daha profesyonel gösterir. 
+İşte bu işlemi nasıl yapabileceğinize dair adım adım bir rehber.
+
+## 1. İkonları Daireler Üzerine Yerleştirin
+
+Öncelikle ikonlarınızı dairelerin içine yerleştirmeniz gerekiyor. 
+Dairelere ikonu uygun bir şekilde yerleştirmek için ikonları dairelerin merkezine konumlandırın.
+
+## 2. İkonları Formatlayın
+
+İkonların görünümünü özelleştirmek için:
+
+- **İkon Rengini Ayarlayın**: Tüm dört ikonu aynı anda seçin, "Shape Fill" (Şekil Doldurma) menüsünden "White" (Beyaz) seçeneğini tıklayın,
+böylece ikonlarınız beyaz renkte olacak.
+  
+## 3. Gruplandırma İşlemi
+
+Rahat bir şekilde hareket ettirmek için ikonlarınızı ve dairelerinizi bir grup haline getirin:
+
+- İkonu ve daireyi aynı anda seçin, "Arrange" (Düzenle) menüsüne tıklayın ve "Group" (Grupla) seçeneğini seçin. Böylece her bir seti gruplandırmış olacaksınız.
+
+## 4. İkonları Yerleştirme
+
+Gruplandırdığınız ikonları uygun alanlara konumlandırın:
+
+- **Kullanım Kolaylığı**: Gruplandırdığınız ikonları kendi alanlarında düzenli bir şekilde yerleştirin.
+İkonların üstüne konumlandırmak için yukarıda görünen rehber çizgilerini kullanın.
+Alt kısımdaki ikonların dikey pozisyonlarını ayarlayın ve "Align" (Hizala) aracını kullanarak üst kısımda bulunan ikonlarla hizalayın.
+
+## 5. İkonları Hizalama
+
+Hızla hizalama yapmak için şu adımları izleyin:
+
+- **Sol Taraf İkonları**: Sol iki ikonu seçip "Arrange" (Düzenle) sekmesine gidin. "Align" (Hizala) seçeneğine tıklayın ve "Align Left" (Sola Hizala) seçeneğini tıklayın.
+
+- **Sağ Taraf İkonları**: Sağdaki ikonlar için aynı şekilde "Arrange" (Düzenle) menüsünden "Align" (Hizala) seçeneğine tıklayıp "Align Right" (Sağa Hizala) seçeneğini seçin.
+
