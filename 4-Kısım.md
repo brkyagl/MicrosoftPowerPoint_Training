@@ -193,3 +193,55 @@ Hızla hizalama yapmak için şu adımları izleyin:
 
 - **Sağ Taraf İkonları**: Sağdaki ikonlar için aynı şekilde "Arrange" (Düzenle) menüsünden "Align" (Hizala) seçeneğine tıklayıp "Align Right" (Sağa Hizala) seçeneğini seçin.
 
+# Microsoft PowerPoint ile Şekil, İkon ve 3D Model Kullanarak Görsel Oluşturma
+
+Aşağıda, Microsoft PowerPoint programında şekiller, simgeler ve 3D modeller kullanarak kendi görselinizi nasıl yaratabileceğinizi 
+anlatan adım adım bir kılavuz bulacaksınız. Bu örnekte, basit bir balık şekli oluşturmayı öğreneceksiniz.
+
+## Adım 1: Şekil Oluşturma
+
+**Balık Şeklinin Temelini Oluşturma**
+
+İlk olarak balık şeklinin vücudu için bir oval şekil çizeceğiz. 
+1. **Şekil Ekleme:** PowerPoint'te "Insert" sekmesine gidin ve "Shapes" menüsünden oval şekli seçin.
+2. **Oval Çizme:** Ekranda farenizi kullanarak bir oval çizin ve boyutunu büyütün.
+
+![resim](https://i.ibb.co/MsP2MMZ/50-shapes.png)
+
+**Balık Kuyruğunu Oluşturma**
+
+Şimdi balığın kuyruğunu oluşturmak için bir ay şekli çizeceğiz.
+1. **Ay Şekli Ekleme:** "Shapes" menüsünden ay şekli seçin.
+2. **Yerlestirme:** Bu ay şekilini ovalin sol tarafına yerleştirin ve ters çevirin (yani ayın açık kısmı ovalin dışına bakmalı).
+3. **Kopyalama:** "Ctrl + D" tuşlarını kullanarak ay şeklini çoğaltın ve ovalin ortasına yerleştirin.
+Boyutunu arttırarak kuyruk görünümünü tamamlayın.
+
+![resim](https://i.ibb.co/9qv6HTF/51-shapes.png)
+
+## Adım 2: Ağız Şeklini Oluşturma
+
+Balık şeklinin ağzını oluşturmak için bir üçgen şekli çizeceğiz.
+1. **Üçgen Ekleme:** "Shapes" menüsünden üçgen şekli seçin.
+2. **Üçgen Yerleştirme:** Üçgeni sola çevirin ve ucu ovalin sağ tarafına yerleştirin.
+(Üçgen için shapes format kısmından hem rengini beyaz yapın + shape outline çizgisini kapatın.)
+
+![resim](https://i.ibb.co/6WCc6mN/52-shapes.png)
+
+## Adım 3: Gözleri Oluşturma
+
+Balığın gözünü yapmak için iki oval şekil daha ekleyeceğiz.
+1. **Beyaz Göz:** "Shapes" menüsünden bir oval şekli seçin ve balığın ağzının yanına doğru bir daire çizin. Bu ovale beyaz rengi verin.
+2. **Küçük Siyah Göz:** Aynı şekilde bir başka oval çizin ama bu sefer daha küçük ve siyah bir renk verin.
+Küçük siyah ovale, beyaz ovale yerleştirin.
+
+![resim](https://i.ibb.co/L5CsS1M/53-Shapes.png)
+
+## Adım 4: Tüm Şekilleri Birleştirme
+
+Son olarak, tüm oluşturduğunuz şekilleri birleştirip gruplandırarak balık şeklinizi tamamlayın:
+1. **Seçim:** Oluşturduğunuz tüm şekilleri seçin (bunu yapmak için "Ctrl" tuşunu basılı tutun).
+2. **Birleştirme:** "Shapes Format" sekmesine gidin ve tekrar "Merge shapes" menüsünü açarak "subtract" seçeneğini seçin.
+3. **Gruplandırma:** Tüm şekilleri seçtikten sonra sağ tıklayın, "Group" seçeneğini tıklayarak gruplandırın.
+(Sonra tekrar shape outline kısmını no outline yapın.)
+
+Artık balık şeklinizin son hali hazır! 
