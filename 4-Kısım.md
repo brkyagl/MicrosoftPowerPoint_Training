@@ -246,3 +246,52 @@ Son olarak, tüm oluşturduğunuz şekilleri birleştirip gruplandırarak balık
 
 Artık balık şeklinizin son hali hazır! 
 
+# Bilgisayar ve Sistem Ünitesi Tasarımı 
+
+## Giriş
+
+Microsoft PowerPoint kullanarak bir bilgisayar ve sistem ünitesi tasarımının nasıl yapılacağını da adım adım açıklayacağız.
+Kendi bilgisayar şeklinizi oluşturacak ve tasarımı mükemmelleştirmek için çeşitli şekil ve renklerle oynayacaksınız.
+
+## Bilgisayar Şeklinin Oluşturulması
+
+### 1. İlk Adım: Formları Ekleyin
+- **Insert Sekmesine Git:** PowerPoint programını açın ve üst menüde "Insert" sekmesine tıklayın.
+- **Şekil Seçimi:** "Shapes" bölümünden "Yuvarlak Köşeli Dikdörtge(roundeed corner rectangle)" seçeneğini seçin. Bu, bilgisayarın ana gövdesi olacak.
+
+![resim](https://i.ibb.co/P57Wt67/54-shapes.png)
+
+### 2. İç Dikdörtgenin Eklenmesi
+- **Dikdörtgen Araçını Seçin:** Yuvarlak köşeli dikdörtgenin içine daha küçük bir dikdörtgen ekleyin.
+Bunu yapmak için dikdörtgen aracını seçip sürükleyerek küçük bir dikdörtgen çizin.
+
+![resim](https://i.ibb.co/1fRP9Fg/55-sha.png)
+
+### 3. Renklerle Oynayın
+- **Dış Dikdörtgen:** İlk dikdörtgene tıklayın ve "Shape Fill" seçeneğinden rengi siyah olarak ayarlayın.
+- **İç Dikdörtgen:** İçteki dikdörtgene tıklayın ve "Shape Fill" seçeneğinden rengi beyaz olarak ayarlayın.
+
+### 4. Ek Detaylar
+- **Alt Dikdörtgen:** Ana şeklin alt kısmına, daha küçük bir dikdörtgen ekleyin. Bu, bilgisayarın taban kısmı olacak. Yine, bunu siyah renkle doldurun ve "Shape outline" seçeneğinden "No outline" seçeneğini seçin.
+- **Klavye Yüzeyi:** Alt dikdörtgenin altında klavye birimi için başka bir dikdörtgen oluşturun. Bu dikdörtgeni de siyah renkle doldurun ve hiçbir kontur bağlantısı bırakmayın.
+
+![resim](https://i.ibb.co/MV9xCWc/57-sas.png)
+
+## Sistem Ünitesi Oluşturma
+
+### 1. Ana Şeklin Oluşumu
+- **Yuvarlak Köşeli Dikdörtgen Ekle:** "Yuvarlak Köşeli Dikdörtgen" seçeneğini seçin ve bilgisayarın yanına koyarak büyütün.
+- **Renk Ayarlamaları:** Sistem ünitesinin dış kısmını siyah renkle doldurun.
+
+### 2. İç Detaylar
+- **Herhangi Bir Form Seçin:** Beyaz renkte bir yuvarlak köşeli dikdörtgen yerleştirerek iç kısmını beyaza çevirin.
+- **Yenileyin ve Düzenleyin:** İç kısmı oluşturmak için yeni bir dikdörtgen ekleyip beyaz renkle doldurun. Ardından Ctrl+D tuş kombinasyonu ile bu şekli çoğaltarak bir altına yerleştirin.
+
+### 3. Güç Butonu Ekleyin
+- **Oval Şekil Çizin:** Sistem ünitesi alt kısmına güç butonu oluşturmak için küçük bir daire çizin ve onu beyaz renkle doldurun.
+
+## Gruplama ve Boyutlandırma
+- **Gruplama:** Tasarımınızı tamamladıktan sonra tüm şekilleri seçin, sağ tıklayın ve "Group" seçeneğini seçin. Bu işlemi, dizaynınıza kolay bir şekilde hareket ettirebilmek için yapıyoruz.
+- **Boyutlandırma:** Grupladıktan sonra tasarımınızı küçültün ve uygun boyuta getirin.
+
+![resim](https://i.ibb.co/0XM7TCq/58-shas.png)
