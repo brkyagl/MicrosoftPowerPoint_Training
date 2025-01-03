@@ -245,3 +245,5 @@ Son olarak, tüm oluşturduğunuz şekilleri birleştirip gruplandırarak balık
 (Sonra tekrar shape outline kısmını no outline yapın.)
 
 Artık balık şeklinizin son hali hazır! 
+
+.
