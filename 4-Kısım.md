@@ -246,4 +246,3 @@ Son olarak, tüm oluşturduğunuz şekilleri birleştirip gruplandırarak balık
 
 Artık balık şeklinizin son hali hazır! 
 
-.
