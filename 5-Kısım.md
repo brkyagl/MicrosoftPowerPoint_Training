@@ -24,3 +24,6 @@ Seçilen geçiş efektine göre farklı efekt seçenekleri sunuluyor. Bu seçene
 1.  **Tip»**: Seçilen geçiş efektine bağlı olarak değişkenlik gösteriyor.
 2.  **Effect Options»**: Geçiş efektinin bazı ayarlarını değiştirmenize olanak tanıyan listede yer alıyor.
 
+## Tüm Slaytlara Uygulama
+
+Seçtiğiniz geçiş efekti sadece mevcut slaytınıza uygulanır. Eğer bu efekti tüm slaytlara veya belirli slaytlara uygulamak istiyorsanız, "Apply To All" butonuna tıklayın.
