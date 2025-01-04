@@ -317,3 +317,32 @@ Microsoft PowerPoint, sunumlarınızı daha etkileyici ve anlamlı hale getirmek
 5. **İkonu Özelleştirin**  
    Sunumunuza eklediğiniz ikonun boyutunu, rengini veya konumunu istediğiniz gibi değiştirebilirsiniz. İkonlar, sunumunuza profesyonel bir görünüm kazandırmak için harika bir seçenek.
 
+# Microsoft PowerPoint'ta 3D Modelleri Kullanma 
+
+Microsoft PowerPoint, sunumlarınızı daha etkileyici hale getirmek için çeşitli araçlara sahiptir. 
+Bu araçlar arasında 3D modeller, sunumlarınızı zenginleştirmek ve izleyicilerin dikkatini çekmek için harika bir seçenektir. 
+İşte PowerPoint'te 3D modellerin nasıl kullanılacağına dair adım adım bir rehber.
+
+## 3D Modelleri Ekleme
+
+1. **Insert (Ekle) Sekmesine Gidin**  
+   PowerPoint programınızı açın ve üst menüde bulunan "Insert" (Ekle) sekmesine tıklayın. Bu sekme, sunumunuza eklemek istediğiniz çeşitli öğeleri bulmanıza yardımcı olur.
+
+2. **3D Modeller Seçeneğini Bulun**  
+   "Insert" sekmesine tıkladıktan sonra, karşınıza birçok seçenek çıkacak. Buradan "3D Models" (3D Modeller) seçeneğine tıklayın. Bu adımı gerçekleştirirken internet bağlantınızın aktif olduğundan emin olun.
+
+3. **Modelleri Göz Atma**  
+   "3D Models" penceresi açıldığında, kullanabileceğiniz birçok 3D model göreceksiniz. Burada ilginizi çeken modelleri inceleyebilirsiniz veya belirli bir model arıyorsanız, arama kutusuna ne aradığınızı yazabilirsiniz.
+
+4. **Örnek Arama Yapma**  
+   Örneğin, bir insan araba arıyorsanız, arama kutusuna "car" (araba) yazın. Bu, sizin için farklı insan araba örneklerini gösterecektir.
+
+5. **Modeli Ekleme**  
+   İlgilendiğiniz modeli seçtikten sonra, ilk seçenek üzerinde tıklayın ve “Insert” (Ekle) butonuna basın. Bu işlem, seçtiğiniz 3D modeli sunumunuza ekleyecektir.
+
+## 3D Modeli Kullanma
+
+- **Modeli Döndürme**: 3D modelinizin ortasında bulunan döndürme simgesini kullanarak, arabayı saat yönünde veya saat yönünün tersine döndürebilirsiniz. Ayrıca, modelinizi 360 derece döndürebilir, farklı açılardan inceleyebilirsiniz. Bu özellik, modelin her bir bölümünü izleyicilere göstermek adına büyük bir avantaj sağlar.
+
+- **Görsel Özelleştirme**: 3D modelinizi ekleyip döndürdükten sonra, istediğiniz açılardan ve pozisyonlardan görüntüleyerek sunumunuza görsel bir derinlik katabilirsiniz. Görselliği artırmak için modeli uygun bir konuma yerleştirebilirsiniz.
+
