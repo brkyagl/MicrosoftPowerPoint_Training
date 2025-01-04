@@ -17,7 +17,7 @@ Geçiş eklemek için:
 
 ![resim](https://i.ibb.co/XsbRBmX/61-gecis.png)
 
-## Geçiş Efekti Seçenekleri**
+## Geçiş Efekti Seçenekleri
 
 Seçilen geçiş efektine göre farklı efekt seçenekleri sunuluyor. Bu seçenekler:
 
