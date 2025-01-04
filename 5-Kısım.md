@@ -1,12 +1,12 @@
 # Şekildeki Görsel Etkinlikler ve Geçişler: MS PowerPoint'de Animasyon ve Geçişler
 
-**Geçişler ve Animasyonlar**
+## Geçişler ve Animasyonlar
 
 Görsel etkinlikler ve geçişler, sunduğumuz sunumları canlandıran harika PowerPoint özellikleridir. 
 Geçiş, sunum sırasında bir slide'den diğerine geçiş sırasında görülen bir görsel efektken, animasyon, textler, resimler, 
 grafikler, tablolar vb. gibi slide objelerini hareketlendirilebilen bir görsel efekt olup, geçişler slide'lere uygulanırken animasyonlar slide objelerine uygulanır.
 
-**Geçiş Eklemek**
+## Geçiş Eklemek
 
 Geçiş eklemek için:
 
@@ -17,7 +17,7 @@ Geçiş eklemek için:
 
 ![resim](https://i.ibb.co/XsbRBmX/61-gecis.png)
 
-**Geçiş Efekti Seçenekleri**
+## Geçiş Efekti Seçenekleri**
 
 Seçilen geçiş efektine göre farklı efekt seçenekleri sunuluyor. Bu seçenekler:
 
