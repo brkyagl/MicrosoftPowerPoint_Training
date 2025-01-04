@@ -295,3 +295,25 @@ Bunu yapmak için dikdörtgen aracını seçip sürükleyerek küçük bir dikd�
 - **Boyutlandırma:** Grupladıktan sonra tasarımınızı küçültün ve uygun boyuta getirin.
 
 ![resim](https://i.ibb.co/0XM7TCq/58-shas.png)
+
+# Microsoft PowerPoint'ta İkonlar
+
+Microsoft PowerPoint, sunumlarınızı daha etkileyici ve anlamlı hale getirmek için birçok özellik sunar. Bu özelliklerden biri de ikonlardır. Aşağıda, PowerPoint'te ikonların nasıl kullanılacağını adım adım açıklıyoruz.
+
+## İkonları Ekleme
+
+1. **Insert (Ekle) Sekmesine Gidin**  
+   PowerPoint açıldıktan sonra, üst menüde bulunan "Insert" (Ekle) sekmesine tıklayın. Bu sekme, sunumunuza eklemek istediğiniz çeşitli nesneleri bulmanıza yardımcı olacak.
+
+2. **Icons (İkonlar) Seçeneğini Bulun**  
+   "Insert" sekmesine tıkladıktan sonra, karşınıza birçok farklı seçenek çıkacaktır. Buradan "Icons" (İkonlar) seçeneğini bulup tıklayın. Bu, çeşitli ikonları göz atıp seçmenizi sağlayacaktır.
+
+3. **İkon Seçimi**  
+   İkonlar penceresi açıldığında, sunumunuz için uygun olan ikonu seçin. İkonlar, farklı temalar ve ihtiyaçlar için çeşitlilik gösterir. Beğendiğiniz ikonu bulduktan sonra, üzerine tıklayın.
+
+4. **İkonu Eklemek İçin Onaylayın**  
+   Seçtiğiniz ikonu eklemek için "Insert" (Ekle) butonuna tıklayın. Bu işlem, seçtiğiniz ikonu sunumunuza indirip yerleştirecektir.
+
+5. **İkonu Özelleştirin**  
+   Sunumunuza eklediğiniz ikonun boyutunu, rengini veya konumunu istediğiniz gibi değiştirebilirsiniz. İkonlar, sunumunuza profesyonel bir görünüm kazandırmak için harika bir seçenek.
+
