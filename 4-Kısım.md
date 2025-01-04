@@ -346,3 +346,33 @@ Bu araçlar arasında 3D modeller, sunumlarınızı zenginleştirmek ve izleyici
 
 - **Görsel Özelleştirme**: 3D modelinizi ekleyip döndürdükten sonra, istediğiniz açılardan ve pozisyonlardan görüntüleyerek sunumunuza görsel bir derinlik katabilirsiniz. Görselliği artırmak için modeli uygun bir konuma yerleştirebilirsiniz.
 
+# Microsoft PowerPoint'ta Grafiklerle İllüstrasyon Yapma 
+
+Microsoft PowerPoint, sunumlarınızda verileri etkili bir şekilde görselleştirmenin mükemmel bir yolunu sunar. 
+Grafikler, belirli noktaları ve verileri daha anlaşılır hale getirmenin en iyi yöntemlerinden biridir. 
+İşte PowerPoint’te grafiklerin nasıl kullanılacağına dair adım adım bir rehber.
+
+## Grafik Ekleme
+
+1. **Insert (Ekle) Sekmesine Gidin**  
+   PowerPoint’i açtıktan sonra, üst menüde bulunan "Insert" (Ekle) sekmesine tıklayın. Bu, sunumunuza eklemek istediğiniz çeşitli öğeleri bulmanızı sağlar.
+
+2. **Charts (Grafikler) Seçeneğini Bulun**  
+   "Insert" sekmesine tıkladıktan sonra, "Illustrations" (İllüstrasyonlar) üstündeki "Charts" (Grafikler) seçeneğine tıklayın. Burada içeriklerinize göre çeşitli grafik türleri seçebilirsiniz.
+
+3. **Grafik Türünü Seçin**  
+   Bu örnekte, pasta grafik (Pie Chart) kullanacağız. "Charts" seçeneğine tıkladıktan sonra, pasta grafiğini seçin ve "OK" butonuna basın.
+
+4. **Veri Girişi**  
+   Pasta grafik açıldığında, üstte bir Excel veri sayfası görünecektir. Bu sayfada verilerinizi girebilirsiniz. Örneğin, bir milliyet nüfus raporu hazırlamak istiyorsanız, ilk kutuya "Milletler"  yazarak başlayın. Ardından veri girişi için "Türkler", "Almanlar", "Fransızlar" ve "Ruslar" gibi millet adlarını yazın. 
+
+5. **Excel Sayfasını Kapatma**  
+   Veri girişini tamamladıktan sonra, Excel sayfasını kapatabilirsiniz. Bu işlem, verilerinizi otomatik olarak grafik üzerine işleyecektir.
+
+![resim](https://i.ibb.co/1sPDyGG/60-grafik.png)
+
+## Grafiği Biçimlendirme
+
+- **Grafik Stilleri**: Grafiğinizi biçimlendirmek için "Chart Design" (Grafik Tasarımı) sekmesindeki "Chart Styles" (Grafik Stilleri) ve "Chart Colors" (Grafik Renkleri) seçeneklerini kullanabilirsiniz. Buradan grafiğinizin görsel özelliklerini değiştirebilirsiniz.
+
+- **Grafik Elemanları**: Grafik başlığı, veri etiketleri ve lejant gibi unsurları eklemek veya çıkarmak için sağ taraftaki kısayolu kullanabilirsiniz. Grafik başlığını düzenlemek için, grafik başlığına çift tıklayarak istediğiniz ismi yazabilirsiniz.
