@@ -60,4 +60,3 @@ Her iki kutuyu işaretlerseniz, önceki tıklama geçiş yapacaktır; yani, fare
 Bir geçiş uyguladığınızda, etkiyi slaytınız üzerinde canlı olarak görebilirsiniz. İsterseniz, geçişler sekmesindeki "Preview" komutu ile geçişi tekrar oynatabilirsiniz. 
 Bu şekilde, geçişin nasıl göründüğünü anında görebilir ve ayarlarınızı buna göre düzenleyebilirsiniz.
 
-.
