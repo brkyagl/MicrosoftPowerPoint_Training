@@ -137,3 +137,24 @@ PowerPoint animasyon grubunda yalnızca bir animasyon efekti eklenebilir. Eğer 
 
 4. **Efektleri Seçin**: Animasyon galerisi, animasyon grubundakiyle aynı görünüme sahiptir. Buradan istediğiniz kadar efekt ekleyebilirsiniz. Birden fazla efekt eklemek için yukarıdaki adımları tekrarlayın.
 
+# MS PowerPoint'te Animasyon Painter Kullanma
+
+PowerPoint sunumlarınızda bir nesneye uygulamak istediğiniz animasyon efektlerini kolayca kopyalamak için "Animation painter." adlı özel bir komut bulunmaktadır. Bu özellik, bir nesneye uyguladığınız animasyon efekti(leri) başka bir nesneye hızlıca aktararak zaman kazanmanızı sağlar.
+
+## Animasyon Painter Nedir?
+
+Animasyon Painter, bir nesneye uyguladığınız animasyon efektlerini kopyalamak ve başka nesnelere uygulamak için kullanılır. Böylece, aynı animasyon efektlerini yeniden uygulamak zorunda kalmadan sunumlarınızı zenginleştirebilirsiniz.
+
+## Animasyon Painter Kullanma Adımları
+
+1. **Nesneyi Seçin**: Kopyalamak istediğiniz animasyon efekti olan nesneyi seçin.
+
+2. **Animasyonlar Sekmesine Geçin**: Ekranın üst kısmında bulunan 'Animations' sekmesine tıklayın.
+
+3. **Gelişmiş Animasyon Grubunu Bulun**: '**Animation Painter** simgesine tıklayın. Bu durumda, imleciniz bir fırçaya dönüşecektir.
+
+4. **Hedef Nesneyi Seçin**: İmleci slide'a taşıyın ve animasyon efektini eklemek istediğiniz nesneyi seçin. PowerPoint otomatik olarak animasyonu kopyaladığınız nesneye uygulayacaktır.
+
+5. **Animasyon Painter Aktif Tutma**: Animasyon Painter her kullanımda kendiliğinden kapanır. Eğer sürekli kullanmak isterseniz, Animasyon Painter simgesine çift tıklayarak aktif hale getirebilirsiniz.
+
+6. **İşlemi Tamamlama**: İşiniz bittiğinde, **Esc** tuşuna basarak veya simgeye tekrar tıklayarak Animasyon Painter devre dışı bırakabilirsiniz.
