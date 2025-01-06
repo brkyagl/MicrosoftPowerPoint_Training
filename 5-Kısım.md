@@ -60,3 +60,44 @@ Her iki kutuyu işaretlerseniz, önceki tıklama geçiş yapacaktır; yani, fare
 Bir geçiş uyguladığınızda, etkiyi slaytınız üzerinde canlı olarak görebilirsiniz. İsterseniz, geçişler sekmesindeki "Preview" komutu ile geçişi tekrar oynatabilirsiniz. 
 Bu şekilde, geçişin nasıl göründüğünü anında görebilir ve ayarlarınızı buna göre düzenleyebilirsiniz.
 
+# MS PowerPoint Animasyonları
+
+MS PowerPoint, sunumlarınıza estetik bir derinlik katmak için zengin animasyon seçenekleri sunar. 
+Bu animasyonlar, metin ve nesnelerin görünümünü ve hareketini etkileyerek izleyici üzerinde güçlü bir etki yaratır. 
+Sunumlarınızı daha etkili hale getirmek için animasyonları nasıl kullanacağınızı öğrenin.
+
+## Animasyon Türleri
+
+PowerPoint animasyonları dört ana kategoriye ayrılır:
+
+### 1. Giriş Animasyonları
+
+Giriş animasyonları, bir nesnenin veya metnin slaytta nasıl görüneceğini belirler. 
+Bu tür animasyonlar, içeriğinizin izleyicinin dikkatini çekmesini sağlar ve sunumunuza görsel bir çekicilik katar.
+
+### 2. Vurgu Animasyonları
+
+Vurgu animasyonları, belirli nesnelere veya metinlere ekstra bir etki ekler. 
+Bu animasyonlar, izleyicilerin dikkatini belirli bir bilgiye yönlendirmek için kullanılır ve sunumunuzda önemli noktaların öne çıkmasını sağlar.
+
+### 3. Çıkış Animasyonları
+
+Çıkış animasyonları, bir nesnenin slayttan nasıl ayrılacağını belirler. 
+Bu animasyonlar, sunumunuzun akışını düzenlemenize yardımcı olur ve dikkat dağıtmadan mesajınızı iletmenizi sağlar.
+
+### 4. Hareket Yolu Animasyonları
+
+Hareket yolu animasyonları, bir nesnenin slayt üzerinde nasıl hareket edeceğini tanımlar. 
+Örneğin, bir nesneyi soldan sağa veya yukarıdan aşağıya hareket ettirerek slaytınıza dinamik bir öğe ekleyebilirsiniz.
+
+## Animasyon Ekleme Adımları
+
+PowerPoint’te bir nesneye veya metne animasyon eklemek için aşağıdaki adımları izleyin:
+
+1. **Nesneyi Seçin**: Animasyon eklemek istediğiniz metin veya nesneyi seçin.
+
+2. **Animasyonlar Sekmesine Gidin**: Üst menüden 'Animations' sekmesine tıklayın.
+
+3. **Animasyon Efektini Seçin**: Animasyon grubundaki istediğiniz animasyon etkisini seçin. Daha fazla seçenek için animasyon galerisi açılır menüsüne göz atabilirsiniz.
+
+4. **Ön İzleme Yapın**: Seçtiğiniz animasyonun etkisini görmek için ön izleme(Preview) yapın.
