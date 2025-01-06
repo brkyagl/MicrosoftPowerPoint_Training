@@ -101,3 +101,39 @@ PowerPoint’te bir nesneye veya metne animasyon eklemek için aşağıdaki adı
 3. **Animasyon Efektini Seçin**: Animasyon grubundaki istediğiniz animasyon etkisini seçin. Daha fazla seçenek için animasyon galerisi açılır menüsüne göz atabilirsiniz.
 
 4. **Ön İzleme Yapın**: Seçtiğiniz animasyonun etkisini görmek için ön izleme(Preview) yapın.
+
+# MS PowerPoint Animasyon Efektlerini Değiştirme
+
+Sunumlarınızı zenginleştirmek için MS PowerPoint’in sunduğu animasyon efektlerini etkili bir şekilde kullanabilirsiniz. 
+Animasyon efekt seçeneklerinin nasıl değiştirileceği ve animasyon önizleme işlemleri hakkında bilgi vereceğiz.
+
+## Animasyon Efekt Seçeneklerini Değiştirme
+
+PowerPoint'te animasyon efektini değiştirmenin adımları şunlardır:
+
+1. **Nesneyi Seçin**: Animasyon eklediğiniz nesneyi (metin, şekil vb.) seçin.
+
+2. **Animasyonlar Sekmesine Gidin**: Üst menüden 'Animations' sekmesine tıklayın.
+
+3. **Efekt Seçeneklerini Seçin**: Animasyon grubundaki "Effect Options" tıklayın. Bu, açılır bir liste görüntüleyecektir.
+
+4. **Tercih Edilen Efekti Seçin**: Açılan listeden istediğiniz animasyon efektini seçin.
+
+# MS PowerPoint'te Nesnelere Birden Fazla Animasyon Ekleme
+
+PowerPoint, sunumlarınızı daha dinamik hale getirmenin mükemmel bir yolunu sunar: nesnelerinize birden fazla animasyon ekleme imkanı. 
+
+## Tek Animasyon Eklemek
+
+PowerPoint animasyon grubunda yalnızca bir animasyon efekti eklenebilir. Eğer ana menüden yeni bir efekt seçerseniz, bu ilk efektin yerini alır. Ancak, bir nesneye birden fazla animasyon eklemek isterseniz, işte yapmanız gerekenler:
+
+## Birden Fazla Animasyon Ekleme
+
+1. **Nesneyi Seçin**: Animasyon eklemek istediğiniz nesneyi (metin, şekil vb.) seçin.
+
+2. **Animasyonlar Sekmesine Geçin**: Ekranın üst kısmında bulunan 'Animations' sekmesine tıklayın.
+
+3. **Animasyon Ekle Butonuna Tıklayın**: 'Add Animation' butonuna tıklayın. Bu işlemle, animasyon galerisi ekranda açılacaktır.
+
+4. **Efektleri Seçin**: Animasyon galerisi, animasyon grubundakiyle aynı görünüme sahiptir. Buradan istediğiniz kadar efekt ekleyebilirsiniz. Birden fazla efekt eklemek için yukarıdaki adımları tekrarlayın.
+
