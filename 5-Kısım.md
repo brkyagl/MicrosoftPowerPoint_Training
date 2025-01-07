@@ -158,3 +158,36 @@ Animasyon Painter, bir nesneye uyguladığınız animasyon efektlerini kopyalama
 5. **Animasyon Painter Aktif Tutma**: Animasyon Painter her kullanımda kendiliğinden kapanır. Eğer sürekli kullanmak isterseniz, Animasyon Painter simgesine çift tıklayarak aktif hale getirebilirsiniz.
 
 6. **İşlemi Tamamlama**: İşiniz bittiğinde, **Esc** tuşuna basarak veya simgeye tekrar tıklayarak Animasyon Painter devre dışı bırakabilirsiniz.
+
+# MS PowerPoint Animasyon Pane
+
+MS PowerPoint kullanırken, slaytlarınızdaki animasyonları düzenlemek için Animasyon Pane (Animasyon Paneli) büyük bir kolaylık sağlar. Bu panel, tüm animasyonlarınızı kontrol etmek ve organize etmek için gelişmiş ayarlar içerir. İşte Animasyon Pane'in sunduğu özellikler:
+
+## Animasyonların Düzenlenmesi
+
+Animasyon Pane'i açarak, slaydınızdaki tüm animasyon efektlerini görebilirsiniz. Bu panel, her animasyonun numarasını, rengini ve animasyonun uygulanacağı nesnelerin adını gösterir. Bu sayede hangi animasyonun ne sırayla uygulanacağını kolayca takip edebilirsiniz.
+
+## Gelişmiş Ayarlar
+
+Animasyon Pane'de, her bir animasyon efekti için süre ve bekleme sürelerini ayarlayabilirsiniz. Ayrıca, animasyonların tekrar edilmesini veya özellikle tetikleyici kullanarak belirli durumlarda aktive edilmesini de sağlayabilirsiniz. 
+
+## Animasyon Sıralaması
+
+Animasyonların sıralanması, sizin için önemlidir; bu nedenle, Animasyon Pane'de yukarı ve aşağı ok butonları ile seçtiğiniz animasyonları istediğiniz sıraya taşıyabilirsiniz. Bu, sunumunuzun akışını kontrol etmenize yardımcı olur.
+
+## Görsel Simge ve İkonlar
+
+Animasyonlarınızı daha iyi yönetebilmek için, Animasyon Pane farklı renkler ve simgeler kullanarak efekt kategorilerini belirginleştirir. Bu sayede hangi tür animasyonların kullanıldığını hızlıca anlayabilirsiniz.
+
+## Ön İzleme Özelliği
+
+Animasyonları ön izlemek için "Play" butonunu kullanarak, seçili animasyondan başlayıp tüm efektleri gözlemleyebilirsiniz. Bu özellik, sunumunuzda yapmak istediğiniz değişiklikleri test etmek için oldukça kullanışlıdır.
+
+## Çoklu Seçim ve Yönetim
+
+Birden fazla animasyon efektini ayarlamak isterseniz, Shift tuşunu basılı tutarak istediğiniz efektlere tıklayarak seçebilirsiniz. Bu, birden çok animasyonu toplu şekilde yönetmenize olanak tanır.
+
+## Otomatik Animasyonlar
+
+Otomatik olarak gerçekleşen animasyon efektleri, mouse tıklanması ile etkinleşmediği için numaralandırılmaz. Bu tür animasyonların takibi için yine de Animasyon Pane'inizden faydalanabilirsiniz.
+
