@@ -85,3 +85,4 @@ Ayrıca, web versiyonu internet bağlantısı olmadığında çalışmayacağın
 2. **Mevcut Hesabınızla Giriş Yapın:** Eğer bir hesabınız varsa.
 3. **Yeni Bir Hesap Oluşturun:** Eğer hesabınız yoksa, PowerPoint sizin için kullanılabilir hale gelecektir.
 
+.
