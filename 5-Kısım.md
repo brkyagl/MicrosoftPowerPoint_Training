@@ -191,3 +191,4 @@ Birden fazla animasyon efektini ayarlamak isterseniz, Shift tuşunu basılı tut
 
 Otomatik olarak gerçekleşen animasyon efektleri, mouse tıklanması ile etkinleşmediği için numaralandırılmaz. Bu tür animasyonların takibi için yine de Animasyon Pane'inizden faydalanabilirsiniz.
 
+.
