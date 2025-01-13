@@ -220,3 +220,28 @@ Bu menüde "On click of" seçeneğini belirleyin. Ardından, animasyonu tetiklem
 Bir slayt üzerinde birden fazla animasyon uyguladıysanız, bu animasyonlar uygulandıkları sıraya göre düzenlenecektir. 
 İlk uyguladığınız animasyon bir numara alırken, ikinci animasyon iki numarası alır ve bu şekilde devam eder. Uyguladığınız animasyonları sonradan sıralamalarını değiştirmek istediğinizde, kolayca sürükleyip bırakarak yeniden düzenleyebilirsiniz.
 
+# MS PowerPoint'te Animasyonları Sıralama
+
+Animasyonlar, MS PowerPoint sunumlarınızı daha etkileyici ve dinamik hale getirmek için önemli bir araçtır. Ancak, animasyonların sıralaması, izleyicilerin dikkatini doğru şekilde yönlendirmek açısından kritik öneme sahiptir. Bu yazıda, slaytlarınızda animasyonları nasıl yeniden sıralayabileceğinizi öğreneceksiniz.
+
+## Animasyonları Yeniden Sıralama
+
+### 1. Nesneyi Seçme
+
+Slaytınızdaki animasyonunu yeniden sıralamak istediğiniz nesneyi seçin. 
+Ardından, mevcut numarasını değiştirmek istediğiniz animasyonun üzerindeki sayıya tıklayın.
+
+### 2. Animasyon Sekmesine Gitme
+
+"Animations" sekmesine gidin ve "Reorder Animation" grubunu bulun. Burada, animasyon sırasını değiştirmek için gerekli araçları bulacaksınız.
+
+### 3. Animasyonu Taşıma
+
+"Move Earlier" veya "Move Later" butonlarına tıklayarak animasyonun sırasını kolayca değiştirebilirsiniz. 
+İstediğiniz numaraya ulaşana kadar bu butonlara birden fazla kez tıklayabilirsiniz.
+
+## Alternatif Yöntem: Animasyon Penceresi Kullanma
+
+Daha fazla kontrol ve görünürlük sağlamak için "Advanced Animation" grubunda yer alan "Animation Pane" seçeneğini kullanabilirsiniz.
+
+
