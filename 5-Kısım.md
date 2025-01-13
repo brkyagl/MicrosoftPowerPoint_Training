@@ -191,3 +191,32 @@ Birden fazla animasyon efektini ayarlamak isterseniz, Shift tuşunu basılı tut
 
 Otomatik olarak gerçekleşen animasyon efektleri, mouse tıklanması ile etkinleşmediği için numaralandırılmaz. Bu tür animasyonların takibi için yine de Animasyon Pane'inizden faydalanabilirsiniz.
 
+# MS PowerPoint'te Animasyonları Tetikleme
+
+Animasyonlar, izleyicilerin dikkatini çekmek ve mesajınızı etkili bir şekilde iletmek için mükemmel bir yöntemdir. Bir nesneye tıkladığınızda animasyonun nasıl tetikleneceğini öğreneceksiniz. 
+
+## Animasyonu Başlatma
+
+Animasyonları başlatmanın en yaygın yolu, nesneye tıklamaktır. Ancak, istediğiniz animasyon efektini başka bir nesneyle de tetikleyebilirsiniz. İşte adım adım nasıl yapılacağı:
+
+### 1. Animasyon Sekmesine Gitme
+
+Öncelikle sunumunuzda animasyon eklemek istediğiniz nesneyi seçin ve ardından "Animations" sekmesine gidin. 
+
+### 2. Animasyon Efektini Seçme
+
+Seçtiğiniz nesne için kullanmak istediğiniz animasyon efektini belirleyin. Animasyon efektleri listesinde, istediğiniz animasyonu bulup tıklayın.
+
+### 3. Tetikleyici Ayarları 
+
+Animasyonu tetiklemek için "Advanced Animation" grubunda yer alan "Trigger" butonuna tıklayın. Bu, açılır bir menü görüntüleyecektir. 
+
+### 4. Tıklama ile Tetikleme
+
+Bu menüde "On click of" seçeneğini belirleyin. Ardından, animasyonu tetiklemek için tıklamak istediğiniz nesnelerin listesini göreceksiniz. Buradan, seçtiğiniz animasyonun tetiklendiği nesneyi seçebilirsiniz.
+
+## Animasyon Sırasının Düzenlenmesi
+
+Bir slayt üzerinde birden fazla animasyon uyguladıysanız, bu animasyonlar uygulandıkları sıraya göre düzenlenecektir. 
+İlk uyguladığınız animasyon bir numara alırken, ikinci animasyon iki numarası alır ve bu şekilde devam eder. Uyguladığınız animasyonları sonradan sıralamalarını değiştirmek istediğinizde, kolayca sürükleyip bırakarak yeniden düzenleyebilirsiniz.
+
