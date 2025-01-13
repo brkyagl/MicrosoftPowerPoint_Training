@@ -272,3 +272,14 @@ Aşağıdaki iki yöntemden birini kullanarak animasyon süresini ayarlayabilirs
 
 Animasyon efektinin başlamasından sonra gecikme eklemek de mümkündür. Bu, izleyicilerin dikkatini çekmek ve animasyonu daha etkili hale getirmek için önemlidir. Animasyonun gecikme süresini ayarlamak için de benzer adımları izleyebilir, "Zamanlama" grubunda yer alan 'Delay' kutusunu kullanarak istediğiniz gecikme süresini belirleyebilirsiniz.
 
+## Metinlerin Sırasıyla Görünmesini Sağlama
+
+PowerPoint’te animasyonları kullanarak metinlerinizi sunum sırasında parça parça gösterebilirsiniz. 
+Bu özellik, izleyicilere noktaları tek tek sunarak tartışma sürecini daha etkili hale getirebilir. 
+İzleyicilerinize hangi bilgiye ne zaman odaklanmaları gerektiğini kontrol etme fırsatı verir.
+
+## Metin Animasyonu Nasıl Ayarlanır?
+
+1. Metni Seçme: Animasyon eklemek istediğiniz metni seçin.
+2. Animasyon Ekleme: "Animations" sekmesinden bir animasyon efekti seçin.
+3. Her Paragraf İçin Gecikme Ayarlama: Her bir paragraf için ayrı animasyon efektleri ekleyerek ve gecikmelerini ayarlayarak, metninizi istediğiniz sırayla sunabilirsiniz.
