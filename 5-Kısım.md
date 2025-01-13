@@ -244,4 +244,31 @@ Ardından, mevcut numarasını değiştirmek istediğiniz animasyonun üzerindek
 
 Daha fazla kontrol ve görünürlük sağlamak için "Advanced Animation" grubunda yer alan "Animation Pane" seçeneğini kullanabilirsiniz.
 
+# MS PowerPoint'te Animasyon Süresi ve Gecikmesini Ayarlama
+
+Animasyonların süreleri ve gecikmeleri, sunumunuza olan etkiyi artırmak için önemli bir faktördür. Animasyon süresini ve gecikmesini nasıl ayarlayacağınızı öğreneceksiniz.
+
+## Animasyon Süresinin Ayarlanması
+
+Animasyon efektleri, tetiklendiğinde hemen başlar ve varsayılan süre boyunca oynar. Ancak, animasyonun sürelerini özelleştirerek etkisini artırmak mümkündür.
+
+### 1. Animasyon Sekmesine Gitme
+
+Öncelikle, üzerinde değişiklik yapmak istediğiniz animasyon efektini seçin ve "Animations" sekmesine gidin.
+
+### 2. Animasyon Efektini Seçme
+
+Animasyonu ayarlamak için, düzenlemek istediğiniz animasyon efektinin numarasını seçin. 
+
+### 3. Süreyi Ayarlama
+
+Aşağıdaki iki yöntemden birini kullanarak animasyon süresini ayarlayabilirsiniz:
+
+- **Süre Metin Kutusunu Kullanma**: "Timing" grubundaki 'Duration' metin kutusuna istediğiniz süreyi girin.
+  
+- **Animasyon Panelini Kullanma**: Animasyon paneline giderek, ilgili animasyon efektinin zaman çizgisine tıklayın ve sağ tarafını sürükleyerek istediğiniz konuma getirin. Zaman çizgisini sürüklerken, animasyonun başlangıç ve bitiş zamanını gösteren kutuyu kullanarak doğru süreyi ayarlayabilirsiniz.
+
+## Gecikme Ayarlama 
+
+Animasyon efektinin başlamasından sonra gecikme eklemek de mümkündür. Bu, izleyicilerin dikkatini çekmek ve animasyonu daha etkili hale getirmek için önemlidir. Animasyonun gecikme süresini ayarlamak için de benzer adımları izleyebilir, "Zamanlama" grubunda yer alan 'Delay' kutusunu kullanarak istediğiniz gecikme süresini belirleyebilirsiniz.
 
