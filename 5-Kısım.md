@@ -284,4 +284,3 @@ Bu özellik, izleyicilere noktaları tek tek sunarak tartışma sürecini daha e
 2. Animasyon Ekleme: "Animations" sekmesinden bir animasyon efekti seçin.
 3. Her Paragraf İçin Gecikme Ayarlama: Her bir paragraf için ayrı animasyon efektleri ekleyerek ve gecikmelerini ayarlayarak, metninizi istediğiniz sırayla sunabilirsiniz.
 
-.
